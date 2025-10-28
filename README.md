@@ -76,19 +76,6 @@ Create, edit, delete tasks in the task manager
 
 View API Docs at http://localhost:3000/api-docs
 
-🔒 Security
-Password hashing with bcryptjs
-
-JWT token authentication
-
-Rate limiting (100 requests/15min)
-
-Input validation and sanitization
-
-CORS protection
-
-Helmet.js security headers
-
 📁 Project Structure
 text
 backend-api/src/
